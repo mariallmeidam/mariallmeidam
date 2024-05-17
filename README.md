@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://github.com/mariallmeidam/mariallmeidam/assets/165406204/88ba0d95-d3a3-4e2e-909a-966b65c431b7"  />
-</div>
-
 ###
 
 <div align="center">
@@ -38,7 +34,8 @@
 
 ###
 
-<p align="left">- Este perfil é uma conta secundária da @marialmeida1. Devido a problemas técnicos com o GitHub, minha conta principal não está visível para o público. Todos os repositórios da @marialmeida1 estão presentes aqui, isso explica a baixa atividade de commits e as datas recentes nos repositórios.</p>
+<p align="left">- Este perfil é uma conta secundária da @marialmeida1. Caso tenha entrada via algum link até ela, acesse <a>https://github.com/mariallmeidam</a> que é a
+conta usada atualmente por Mariana Almeida.</p>
 
 ###
 
